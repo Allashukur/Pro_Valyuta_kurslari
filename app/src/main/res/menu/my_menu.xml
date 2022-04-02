@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_2"
+        android:title="Bosh oyna" />
+    <item
+        android:id="@+id/all_cours"
+        android:icon="@drawable/conv2"
+        android:title="Barcha valyutalar" />
+    <item
+        android:id="@+id/conv"
+        android:icon="@drawable/ic_vector"
+        android:title="Ayriboshlash" />
+</menu>

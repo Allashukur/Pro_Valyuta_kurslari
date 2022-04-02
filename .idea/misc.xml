@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/drawable/card_bacground.xml" value="0.1835" />
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/drawable/card_bacground2.xml" value="0.2" />
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/drawable/ic_dollar.xml" value="0.1605" />
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/drawable/ic_share.xml" value="0.168" />
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/drawable/info.xml" value="0.2" />
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/drawable/item_recycler_cal_background.xml" value="0.17" />
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/drawable/item_tab_layout_background.xml" value="0.17" />
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/drawable/linear1.xml" value="0.17" />
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/drawable/share.xml" value="0.2" />
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/layout/fragment_convertation.xml" value="0.2754782700075322" />
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/layout/fragment_course.xml" value="0.2754782700075322" />
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/layout/fragment_home.xml" value="0.26875" />
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/layout/fragment_page.xml" value="0.26875" />
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/layout/fragment_settings.xml" value="0.26875" />
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/layout/fragment_test.xml" value="0.3625" />
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/layout/info_dilaog.xml" value="0.26875" />
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/layout/item_dialog.xml" value="0.26875" />
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/layout/item_rv.xml" value="0.2754782700075322" />
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/layout/item_rv_main.xml" value="0.25" />
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/layout/item_save.xml" value="0.26875" />
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/layout/item_spinner.xml" value="0.26875" />
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/layout/item_viewpager.xml" value="0.26875" />
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/layout/language_dialog.xml" value="0.26875" />
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/layout/mydialog.xml" value="0.26875" />
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/layout/tab_layout_item.xml" value="0.26875" />
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/layout/toolbar.xml" value="0.26875" />
+        <entry key="..\:/Android_studio/Data Binding/Pro Valyuta kurslari/ProValyutakurslari/app/src/main/res/menu/my_menu.xml" value="0.26875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

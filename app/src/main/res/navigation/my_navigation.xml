@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_navigation"
+    app:startDestination="@id/home">
+    <fragment
+        android:id="@+id/conv"
+        android:name="uz.pdp.provalyutakurslari.fragments.ConvertationFragment"
+        android:label="fragment_convertation"
+        tools:layout="@layout/fragment_convertation" />
+    <fragment
+        android:id="@+id/all_cours"
+        android:name="uz.pdp.provalyutakurslari.fragments.CourseFragment"
+        android:label="fragment_course"
+        tools:layout="@layout/fragment_course" />
+    <fragment
+        android:id="@+id/home"
+        android:name="uz.pdp.provalyutakurslari.fragments.HomeFragment"
+        android:label="HomeFragment" />
+</navigation>

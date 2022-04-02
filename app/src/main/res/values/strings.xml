@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pro Valyuta kurslari</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="null_text">Mavjud emas</string>
+    <string name="uzs"> UZS</string>
+</resources>
